@@ -1,0 +1,7 @@
+streamlit==1.35.0
+pandas==2.0.3
+torch version==2.1.2+cpu
+Numpy== 1.25.2
+opencv-python-headless==4.10.0.82
+Pillow==9.5.0
+matplotlib version: 3.7.5
